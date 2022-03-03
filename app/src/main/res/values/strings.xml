@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulario app</string>
+    <!-- Botones -->
+    <string name="resetear">Borrar todo</string>
+    <string name="enviar">Enviar</string>
+    <string name="llamar">Llamar</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="camara">Hacer foto</string>
+
+    <!--Título cabecera-->
+    <string name="cabecera">Formulario</string>
+
+    <!--Radio Buttons-->
+    <string name="rbhombre">Hombre</string>
+    <string name="rbmujer">Mujer</string>
+
+</resources>
